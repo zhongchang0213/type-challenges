@@ -11,19 +11,71 @@
 2 √
 3 √
 8 √
-9
-10
-12
-15
-16
-20
-62
-106
-108
-110
-116
-119
-191
+9・Deep Readonly √
+10・Tuple to Union
+12・Chainable Options
+15・Last of Array
+16・Pop
+20・Promise.all
+62・Type Lookup
+106・Trim Left
+108・Trim
+110・Capitalize
+116・Replace
+119・ReplaceAll
+191・Append Argument
+296・Permutation
+298・Length of String
+459・Flatten
+527・Append to object
+529・Absolute
+531・String to Union
+599・Merge
+612・KebabCase
+645・Diff
+949・AnyOf
+1042・IsNever
+1097・IsUnion
+1130・ReplaceKeys
+1367・Remove Index Signature
+1978・Percentage Parser
+2070・Drop Char
+2257・MinusOne
+2595・PickByType
+2688・StartsWith
+2693・EndsWith
+2757・PartialByKeys
+2759・RequiredByKeys
+2793・Mutable
+2852・OmitByType
+2946・ObjectEntries
+3062・Shift
+3188・Tuple to Nested Object
+3192・Reverse
+3196・Flip Arguments
+3243・FlattenDepth
+3326・BEM style string
+3376・InorderTraversal
+4179・Flip
+4182・Fibonacci Sequence
+4260・AllCombinations
+4425・Greater Than
+4471・Zip
+4484・IsTuple
+4499・Chunk
+4518・Fill
+4803・Trim Right
+5117・Without
+5140・Trunc
+5153・IndexOf
+5310・Join
+5317・LastIndexOf
+5360・Unique
+5821・MapTypes
+7544・Construct Tuple
+8640・Number Range
+8767・Combination
+8987・Subsequence
 
 <p align='center'>
   <img src='./screenshots/logo.svg' width='400'/>
