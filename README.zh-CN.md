@@ -13,7 +13,7 @@
 8 √
 9・Deep Readonly √
 10・Tuple to Union √
-12・Chainable Options
+12・Chainable Options  √
 15・Last of Array
 16・Pop
 20・Promise.all
