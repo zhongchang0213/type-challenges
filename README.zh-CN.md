@@ -15,7 +15,7 @@
 10・Tuple to Union √
 12・Chainable Options  √
 15・Last of Array √
-16・Pop
+16・Pop √
 20・Promise.all
 62・Type Lookup
 106・Trim Left
