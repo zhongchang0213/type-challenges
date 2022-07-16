@@ -17,7 +17,7 @@
 15・Last of Array √
 16・Pop √
 20・Promise.all √
-62・Type Lookup
+62・Type Lookup √
 106・Trim Left
 108・Trim
 110・Capitalize
