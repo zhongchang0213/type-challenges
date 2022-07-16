@@ -16,7 +16,7 @@
 12・Chainable Options  √
 15・Last of Array √
 16・Pop √
-20・Promise.all
+20・Promise.all √
 62・Type Lookup
 106・Trim Left
 108・Trim
