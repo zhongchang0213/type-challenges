@@ -18,8 +18,8 @@
 16・Pop √
 20・Promise.all √
 62・Type Lookup √
-106・Trim Left
-108・Trim
+106・Trim Left √
+108・Trim √
 110・Capitalize
 116・Replace
 119・ReplaceAll
