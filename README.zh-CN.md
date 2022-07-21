@@ -20,7 +20,7 @@
 62・Type Lookup √
 106・Trim Left √
 108・Trim √
-110・Capitalize
+110・Capitalize √
 116・Replace
 119・ReplaceAll
 191・Append Argument
