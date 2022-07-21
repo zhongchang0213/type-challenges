@@ -21,8 +21,8 @@
 106・Trim Left √
 108・Trim √
 110・Capitalize √
-116・Replace
-119・ReplaceAll
+116・Replace √
+119・ReplaceAll √
 191・Append Argument
 296・Permutation
 298・Length of String
