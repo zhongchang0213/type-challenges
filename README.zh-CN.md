@@ -23,7 +23,7 @@
 110・Capitalize √
 116・Replace √
 119・ReplaceAll √
-191・Append Argument
+191・Append Argument √
 296・Permutation
 298・Length of String
 459・Flatten
