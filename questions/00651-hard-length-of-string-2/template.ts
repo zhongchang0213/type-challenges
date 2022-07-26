@@ -1,1 +1,1 @@
-type LengthOfString<S extends string> = number
+export type LengthOfString<S extends string> = number
