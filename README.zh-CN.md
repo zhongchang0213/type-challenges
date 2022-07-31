@@ -26,7 +26,7 @@
 191・Append Argument √
 296・Permutation
 298・Length of String √
-459・Flatten
+459・Flatten √
 527・Append to object
 529・Absolute
 531・String to Union
